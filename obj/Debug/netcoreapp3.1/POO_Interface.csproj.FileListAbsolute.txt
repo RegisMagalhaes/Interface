@@ -1,0 +1,13 @@
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\POO_Interface\bin\Debug\netcoreapp3.1\POO_Interface.exe
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\POO_Interface\bin\Debug\netcoreapp3.1\POO_Interface.deps.json
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\POO_Interface\bin\Debug\netcoreapp3.1\POO_Interface.runtimeconfig.json
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\POO_Interface\bin\Debug\netcoreapp3.1\POO_Interface.runtimeconfig.dev.json
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\POO_Interface\bin\Debug\netcoreapp3.1\POO_Interface.dll
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\POO_Interface\bin\Debug\netcoreapp3.1\POO_Interface.pdb
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\POO_Interface\obj\Debug\netcoreapp3.1\POO_Interface.csprojAssemblyReference.cache
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\POO_Interface\obj\Debug\netcoreapp3.1\POO_Interface.AssemblyInfoInputs.cache
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\POO_Interface\obj\Debug\netcoreapp3.1\POO_Interface.AssemblyInfo.cs
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\POO_Interface\obj\Debug\netcoreapp3.1\POO_Interface.csproj.CoreCompileInputs.cache
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\POO_Interface\obj\Debug\netcoreapp3.1\POO_Interface.dll
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\POO_Interface\obj\Debug\netcoreapp3.1\POO_Interface.pdb
+C:\Users\lurib\OneDrive\Área de Trabalho\Senai\POO_Interface\obj\Debug\netcoreapp3.1\POO_Interface.genruntimeconfig.cache
